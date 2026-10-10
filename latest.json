@@ -1,8 +1,8 @@
 {
-  "version": "1.2.27",
-  "download_url": "https://github.com/keedaaa/lumenpro-releases/releases/download/v1.2.27/LumenPro_Installer_v1.2.27.exe",
-  "sha256": "d2294ce48986ee230065c3d1581dd9ce1aff112b2bf074717e315c8f69d2cad2",
-  "size": 110907501,
-  "notes": "Select and copy text with a new Select/Hand switch, automatic background OCR so the open file becomes searchable, and a crash fix.",
-  "signature": "WGCVeV4tAZxugr/qX6WswHmTTRpwm3tffW8TfOPchfcFJwKnL8nAGJfCHH7YRmUO/Pofzuuizf4PCwjhLUvWAg=="
+  "version": "1.2.28",
+  "download_url": "https://github.com/keedaaa/lumenpro-releases/releases/download/v1.2.28/LumenPro_Installer_v1.2.28.exe",
+  "sha256": "37a64a5c92344fa51a0ffa76b59c4b4b6744f38e90a334c353caa591a0024e3d",
+  "size": 110898912,
+  "notes": "Merge now builds a draft in the session (choose folder and name when you save or close), File > Open lists all supported formats, Tools > OCR submenu, and OCR runs on merged and added files.",
+  "signature": "1KbuKZAKBx9tfB8Yw1NKkOgAFsu4eASyqmW7hBxl9O6d+00irp164AbdzHzQJFgTmF8UZeWd6aYw1e8+A+JlBw=="
 }

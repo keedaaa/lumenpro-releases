@@ -1,0 +1,8 @@
+{
+  "version": "1.2.20",
+  "download_url": "https://github.com/keedaaa/lumenpro-releases/releases/download/v1.2.20/LumenPro_Installer_v1.2.20.exe",
+  "sha256": "68835897a88a2ae8a6510e789795a2c1e0ceabf994ea394d91bb9f70633da423",
+  "size": 112962076,
+  "notes": "Activation window text is now black, and About lists the open-source components Lumen Pro uses.",
+  "signature": "g9ZNZ/zGHPTHZNJCNAuVRCg911mdBSXXBurJ0jn2AEBJ40J6Ju+/d/wLRlGXaWq9XDlOFisfCHIDqJ/E/S8uCA=="
+}
